@@ -1,0 +1,3 @@
+A repository for practicing usin git. 
+
+Warning: The poems may not be very good...
